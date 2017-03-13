@@ -1,9 +1,19 @@
 # Calculator
 
 ###Link Site
-[Stringhander Site](http://21254.hosts.ma-cloud.nl/www/bae/Les1/stringhandler_basis.php "Stringhandler")
+[Calculator Site](http://21254.hosts.ma-cloud.nl/bewijzenmap/periode3/Les3/switch.php "Calculator")
 
-##Waarom StringHandler?
-string handler laat zien hoe je verschillende opties hebt om met strings te werken.
+##Calculator
+De calculator laat je 4 getallen en een operatoor invullen en geeft een waarde terug aan de hand van de operatoor.
 
-Met de inputfields kan je woorden, cijfers en tekens invullen en de stringhandler doet er verschillende dingen mee.
+De mogelijke operatoren zijn :
+
++
+
+-
+
+*
+
+en /
+
+Als er geen operatoor ingevoord word krijg je dat ook te zien.
